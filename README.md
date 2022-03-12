@@ -5,12 +5,12 @@
 Clone this repository with command
 
 ```
-git clone https://github.com/ntbk-source/mongodb-crud-cli
+git clone https://github.com/ntbk-source/mongodb-crud-cli.git
 ```
 
 ## Second step
 
-If you are using yarn type command:
+If you are using yarn type command
 
 ```
 yarn install
